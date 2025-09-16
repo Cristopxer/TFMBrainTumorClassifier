@@ -17,8 +17,8 @@ pip install -r requirements.txt
 * Es necesario colocar las key para la utilización de la interaccion con el LLM (Gemini) coloca tu key en el archivo ```.env```. [Genera tu key aquí](https://ai.google.dev/gemini-api/docs/api-key?hl=es-419#set-api-env-var)
 
 ## Descarga el modelo
-* Debido a los limites de tamaño de archivos en Github es necesario que te descargues la carpeta models usando este [vinculo](https://drive.google.com/drive/folders/1n3kZHhpODQwFrGaLBMIN4WPn6bnMhScF?usp=sharing)
-y lo coloques en el directorio del proyecto.
+* Debido a los limites de tamaño de archivos en Github es necesario que descargues el modelo usando este [vinculo](https://drive.google.com/drive/folders/1n3kZHhpODQwFrGaLBMIN4WPn6bnMhScF?usp=sharing)
+y lo coloques en el directorio ```models/```.
 
 ## Ejecuta la herramienta
 ```
