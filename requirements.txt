@@ -1,0 +1,14 @@
+# Python 3.10
+python-dotenv
+visualkeras
+matplotlib 
+kagglehub
+opencv-python 
+pillow 
+numpy
+seaborn
+tensorflow
+opencv-python-headless
+google-genai
+streamlit
+plotly

@@ -1,0 +1,5 @@
+Video presentación (5 mins):
+	https://youtu.be/xAc1e9WEgRs
+
+Repositorio del proyecto:
+	https://github.com/Cristopxer/TFMBrainTumorClassifier
